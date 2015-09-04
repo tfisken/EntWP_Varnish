@@ -1,0 +1,5 @@
+source 'https://supermarket.chef.io'
+
+metadata
+
+cookbook 'iptables', git: 'git://github.com/GannettDigital/chef-iptables.git'

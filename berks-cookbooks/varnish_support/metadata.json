@@ -1,0 +1,42 @@
+{
+  "name": "varnish_support",
+  "description": "configures varnish",
+  "long_description": "# chef-varnish_support\nsupport template(s) for varnish cookbook\n\nutilizes the following attributes from chef-varnish: \n\ndefault['varnish']['backend_host'] = 'localhost'\n\ndefault['varnish']['backend_port'] = '8080'\n\ndefault['varnish']['listen_port'] = '6081'\n",
+  "maintainer": "Gannett",
+  "maintainer_email": "blieberman@example.com",
+  "license": "All rights reserved",
+  "platforms": {
+
+  },
+  "dependencies": {
+    "iptables": ">= 0.0.0",
+    "varnish": ">= 0.0.0"
+  },
+  "recommendations": {
+
+  },
+  "suggestions": {
+
+  },
+  "conflicting": {
+
+  },
+  "providing": {
+
+  },
+  "replacing": {
+
+  },
+  "attributes": {
+
+  },
+  "groupings": {
+
+  },
+  "recipes": {
+
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": ""
+}

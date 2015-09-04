@@ -1,0 +1,7 @@
+{
+  "id": "test",
+  "team": "test",
+  "ssh_keys": "derp_key",
+  "administrator": "true",
+  "group": "test"
+}
