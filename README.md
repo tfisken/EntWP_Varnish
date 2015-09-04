@@ -1,6 +1,7 @@
 # EntWP-cookbook
 
-TODO: Enter the cookbook description here.
+GDPHAR-841  Create Varnish Layer cookbook for Wordpress
+GDPHAR-896	Spin up Varnish Layer cookbook in scalr in sandbox
 
 ## Supported Platforms
 
